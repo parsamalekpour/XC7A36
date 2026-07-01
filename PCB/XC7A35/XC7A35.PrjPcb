@@ -270,6 +270,40 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BBQLQHIW
 
+[Document14]
+DocumentPath=Schlib1.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PYCPNHKS
+
+[Document15]
+DocumentPath=PcbLib1.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EMXPOVQK
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for XC7A35\BGA Escape Route - main.html
 DItemRevisionGUID=
@@ -1258,29 +1292,11 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=SamacSys.SchLib
-ComponentDesignItemID0=XC7A35T-2CSG324C-1111
-ComponentSymbolReference0=XC7A35T-2CSG324C-1111
+ComponentLibraryIdentifier0=Schlib1.SchLib
+ComponentDesignItemID0=7498011122AR
+ComponentSymbolReference0=7498011122AR
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
-ComponentLibIdentifierKind1=Vault Name
-ComponentLibraryIdentifier1=Altium Content Vault
-ComponentDesignItemID1=CMP-08246-007228-1
-ComponentSymbolReference1=b4654b650e69147ec39a6b967a45e02
-ComponentUpdate1=0
-ComponentIsDeviceSheet1=0
-ComponentLibIdentifierKind2=Vault Name
-ComponentLibraryIdentifier2=Altium Content Vault
-ComponentDesignItemID2=CMP-2000-05451-2
-ComponentSymbolReference2=b4654b650e69147ec39a6b967a45e02
-ComponentUpdate2=0
-ComponentIsDeviceSheet2=0
-ComponentLibIdentifierKind3=Vault Name
-ComponentLibraryIdentifier3=Altium Content Vault
-ComponentDesignItemID3=CMP-2000-06003-2
-ComponentSymbolReference3=b4654b650e69147ec39a6b967a45e02
-ComponentUpdate3=0
-ComponentIsDeviceSheet3=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1298,135 +1314,85 @@ ParameterName0=Arrow Part Number
 ParameterUpdate0=1
 ParameterName1=Arrow Price/Stock
 ParameterUpdate1=1
-ParameterName2=Case Code (Imperial)
+ParameterName2=Comment
 ParameterUpdate2=1
-ParameterName3=Case Code (Metric)
+ParameterName3=Component Kind
 ParameterUpdate3=1
-ParameterName4=Case/Package
+ParameterName4=Datasheet Link
 ParameterUpdate4=1
-ParameterName5=Comment
+ParameterName5=Description
 ParameterUpdate5=1
-ParameterName6=Component Kind
+ParameterName6=Height
 ParameterUpdate6=1
-ParameterName7=Construction
+ParameterName7=Library Reference
 ParameterUpdate7=1
-ParameterName8=Datasheet Link
+ParameterName8=Manufacturer_Name
 ParameterUpdate8=1
-ParameterName9=Depth
+ParameterName9=Manufacturer_Part_Number
 ParameterUpdate9=1
-ParameterName10=Description
+ParameterName10=Mouser Part Number
 ParameterUpdate10=1
-ParameterName11=Dielectric
+ParameterName11=Mouser Price/Stock
 ParameterUpdate11=1
-ParameterName12=Dielectric Material
-ParameterUpdate12=1
-ParameterName13=Dissipation Factor
-ParameterUpdate13=1
-ParameterName14=Features
-ParameterUpdate14=1
-ParameterName15=Height
-ParameterUpdate15=1
-ParameterName16=Lead Free
-ParameterUpdate16=1
-ParameterName17=Length
-ParameterUpdate17=1
-ParameterName18=Library Reference
-ParameterUpdate18=1
-ParameterName19=Manufacturer_Name
-ParameterUpdate19=1
-ParameterName20=Manufacturer_Part_Number
-ParameterUpdate20=1
-ParameterName21=Max Operating Temperature
-ParameterUpdate21=1
-ParameterName22=Min Operating Temperature
-ParameterUpdate22=1
-ParameterName23=Mount
-ParameterUpdate23=1
-ParameterName24=Mouser Part Number
-ParameterUpdate24=1
-ParameterName25=Mouser Price/Stock
-ParameterUpdate25=1
-ParameterName26=Package Quantity
-ParameterUpdate26=1
-ParameterName27=Packaging
-ParameterUpdate27=1
-ParameterName28=Part Number
-ParameterUpdate28=1
-ParameterName29=Radiation Hardening
-ParameterUpdate29=1
-ParameterName30=REACH SVHC
-ParameterUpdate30=1
-ParameterName31=Resistor Type
-ParameterUpdate31=1
-ParameterName32=RoHS Compliant
-ParameterUpdate32=1
-ParameterName33=Series
-ParameterUpdate33=1
-ParameterName34=Termination
-ParameterUpdate34=1
-ParameterName35=Thickness
-ParameterUpdate35=1
-ParameterName36=Tolerance
-ParameterUpdate36=1
-ParameterName37=Value
-ParameterUpdate37=1
-ParameterName38=Voltage
-ParameterUpdate38=1
-ParameterName39=Voltage Rating
-ParameterUpdate39=1
-ParameterName40=Voltage Rating (DC)
-ParameterUpdate40=1
-ParameterName41=Weight
-ParameterUpdate41=1
-ParameterName42=Width
-ParameterUpdate42=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=BGA324C80P18X18_1500X1500X150
+ModelName0=7498011122AR
 ModelUpdate0=1
-ModelType1=PCBLIB
-ModelName1=FP-C1005-050-0_05-IPC_A
-ModelUpdate1=1
-ModelType2=PCBLIB
-ModelName2=FP-C1005-050-0_05-IPC_B
-ModelUpdate2=1
-ModelType3=PCBLIB
-ModelName3=FP-C1005-050-0_05-IPC_C
-ModelUpdate3=1
-ModelType4=PCBLIB
-ModelName4=FP-C1005-050-0_05-MFG
-ModelUpdate4=1
-ModelType5=PCBLIB
-ModelName5=FP-C1005-050-0_20-0_10-IPC_A
-ModelUpdate5=1
-ModelType6=PCBLIB
-ModelName6=FP-C1005-050-0_20-0_10-IPC_B
-ModelUpdate6=1
-ModelType7=PCBLIB
-ModelName7=FP-C1005-050-0_20-0_10-IPC_C
-ModelUpdate7=1
-ModelType8=PCBLIB
-ModelName8=FP-C1005-050-0_20-0_10-MFG
-ModelUpdate8=1
-ModelType9=PCBLIB
-ModelName9=FP-C2012-125-0_2-IPC_A
-ModelUpdate9=1
-ModelType10=PCBLIB
-ModelName10=FP-C2012-125-0_2-IPC_B
-ModelUpdate10=1
-ModelType11=PCBLIB
-ModelName11=FP-C2012-125-0_2-IPC_C
-ModelUpdate11=1
-ModelType12=PCBLIB
-ModelName12=FP-C2012-125-0_2-MFG
-ModelUpdate12=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+
+[NetInfos]
+Net1=NetName=DDR_DM|NetColor=$006E6EFF
+Net2=NetName=DDR3_A0|NetColor=$0000BE00
+Net3=NetName=DDR3_A1|NetColor=$0000BE00
+Net4=NetName=DDR3_A10|NetColor=$0000BE00
+Net5=NetName=DDR3_A11|NetColor=$0000BE00
+Net6=NetName=DDR3_A12|NetColor=$0000BE00
+Net7=NetName=DDR3_A13|NetColor=$0000BE00
+Net8=NetName=DDR3_A14|NetColor=$0000BE00
+Net9=NetName=DDR3_A15|NetColor=$0000BE00
+Net10=NetName=DDR3_A2|NetColor=$0000BE00
+Net11=NetName=DDR3_A3|NetColor=$0000BE00
+Net12=NetName=DDR3_A4|NetColor=$0000BE00
+Net13=NetName=DDR3_A5|NetColor=$0000BE00
+Net14=NetName=DDR3_A6|NetColor=$0000BE00
+Net15=NetName=DDR3_A7|NetColor=$0000BE00
+Net16=NetName=DDR3_A8|NetColor=$0000BE00
+Net17=NetName=DDR3_A9|NetColor=$0000BE00
+Net18=NetName=DDR3_BA0|NetColor=$0000BE00
+Net19=NetName=DDR3_BA1|NetColor=$0000BE00
+Net20=NetName=DDR3_BA2|NetColor=$0000BE00
+Net21=NetName=DDR3_CAS|NetColor=$0000BE00
+Net22=NetName=DDR3_CKE0|NetColor=$0000BE00
+Net23=NetName=DDR3_CLK0_N|NetColor=$0000BE00
+Net24=NetName=DDR3_CLK0_P|NetColor=$0000BE00
+Net25=NetName=DDR3_D0|NetColor=$006E6EFF
+Net26=NetName=DDR3_D1|NetColor=$006E6EFF
+Net27=NetName=DDR3_D2|NetColor=$006E6EFF
+Net28=NetName=DDR3_D3|NetColor=$006E6EFF
+Net29=NetName=DDR3_D4|NetColor=$006E6EFF
+Net30=NetName=DDR3_D5|NetColor=$006E6EFF
+Net31=NetName=DDR3_D6|NetColor=$006E6EFF
+Net32=NetName=DDR3_D7|NetColor=$006E6EFF
+Net33=NetName=DDR3_DQS0_N|NetColor=$006E6EFF
+Net34=NetName=DDR3_DQS0_P|NetColor=$006E6EFF
+Net35=NetName=DDR3_ODT0|NetColor=$0000BE00
+Net36=NetName=DDR3_RAS|NetColor=$0000BE00
+Net37=NetName=DDR3_RESET|NetColor=$0000BE00
+Net38=NetName=DDR3_S0|NetColor=$0000BE00
+Net39=NetName=DDR3_WE|NetColor=$0000BE00
+Net40=NetName=SPI_CS|NetColor=$00FF6E6E
+Net41=NetName=SPI_DQ0|NetColor=$00FF6E6E
+Net42=NetName=SPI_DQ1|NetColor=$00FF6E6E
+Net43=NetName=SPI_DQ2|NetColor=$00FF6E6E
+Net44=NetName=SPI_DQ3|NetColor=$00FF6E6E
+Net45=NetName=SPI_DQ4|NetColor=$00FF6E6E
+Net46=NetName=SPI_SCK|NetColor=$00FF6E6E
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
