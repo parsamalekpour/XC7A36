@@ -1,12 +1,17 @@
-Record=TopLevelDocument|FileName=BANK14.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=BANK14.SchDoc|FileName=BANK15.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=BANK14.SchDoc|FileName=BANK16.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=BANK14.SchDoc|FileName=BANK34.SchDoc|SheetNumber=5
-Record=NoMainPathDocument|SourceDocument=BANK14.SchDoc|FileName=BANK35.SchDoc|SheetNumber=6
-Record=NoMainPathDocument|SourceDocument=BANK14.SchDoc|FileName=CPLD.SchDoc|SheetNumber=10
-Record=NoMainPathDocument|SourceDocument=BANK14.SchDoc|FileName=DDR.SchDoc|SheetNumber=9
-Record=NoMainPathDocument|SourceDocument=BANK14.SchDoc|FileName=ETHERNET.SchDoc|SheetNumber=11
-Record=NoMainPathDocument|SourceDocument=BANK14.SchDoc|FileName=FPGA CONFIG.SchDoc|SheetNumber=7
-Record=NoMainPathDocument|SourceDocument=BANK14.SchDoc|FileName=FPGA PWR.SchDoc|SheetNumber=8
-Record=NoMainPathDocument|SourceDocument=BANK14.SchDoc|FileName=Passvies.SchDoc|SheetNumber=12
-Record=NoMainPathDocument|SourceDocument=BANK14.SchDoc|FileName=POWER.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=TOP.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=TOP.SchDoc|Designator=BANK14|SchDesignator=BANK14|FileName=BANK14.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=BANK14.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TOP.SchDoc|Designator=BANK15|SchDesignator=BANK15|FileName=BANK15.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=BANK15.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TOP.SchDoc|Designator=BANK16|SchDesignator=BANK16|FileName=BANK16.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=BANK16.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TOP.SchDoc|Designator=BANK34|SchDesignator=BANK34|FileName=BANK34.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=BANK34.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TOP.SchDoc|Designator=BANK35|SchDesignator=BANK35|FileName=BANK35.SchDoc|SheetNumber=6|SymbolType=Normal|RawFileName=BANK35.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TOP.SchDoc|Designator=CONFIG|SchDesignator=CONFIG|FileName=FPGA CONFIG.SchDoc|SheetNumber=7|SymbolType=Normal|RawFileName=FPGA CONFIG.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TOP.SchDoc|Designator=DDR3L|SchDesignator=DDR3L|FileName=DDR.SchDoc|SheetNumber=10|SymbolType=Normal|RawFileName=DDR.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TOP.SchDoc|Designator=DESERIALIZER|SchDesignator=DESERIALIZER|FileName=DESERILIZER.SchDoc|SheetNumber=12|SymbolType=Normal|RawFileName=DESERILIZER.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TOP.SchDoc|Designator=EQUALIZER|SchDesignator=EQUALIZER|FileName=EQULIZER.SchDoc|SheetNumber=13|SymbolType=Normal|RawFileName=EQULIZER.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TOP.SchDoc|Designator=ETHERNET|SchDesignator=ETHERNET|FileName=ETHERNET.SchDoc|SheetNumber=11|SymbolType=Normal|RawFileName=ETHERNET.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TOP.SchDoc|Designator=FLASH|SchDesignator=FLASH|FileName=FLASH.SchDoc|SheetNumber=16|SymbolType=Normal|RawFileName=FLASH.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TOP.SchDoc|Designator=OPTICAL|SchDesignator=OPTICAL|FileName=OPTICS.SchDoc|SheetNumber=14|SymbolType=Normal|RawFileName=OPTICS.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TOP.SchDoc|Designator=POWER|SchDesignator=POWER|FileName=FPGA PWR.SchDoc|SheetNumber=9|SymbolType=Normal|RawFileName=FPGA PWR.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TOP.SchDoc|Designator=POWER|SchDesignator=POWER|FileName=POWER.SchDoc|SheetNumber=8|SymbolType=Normal|RawFileName=POWER.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TOP.SchDoc|Designator=SERIALIZER|SchDesignator=SERIALIZER|FileName=SERIALIZER.SchDoc|SheetNumber=15|SymbolType=Normal|RawFileName=SERIALIZER.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=TOP.SchDoc|FileName=Passvies.SchDoc|SheetNumber=17
